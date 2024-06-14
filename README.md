@@ -31,7 +31,7 @@ The project employs Docker Compose to facilitate the deployment of essential ser
 ### Key Features and Achievements
 
 - **Implemented CDC Pipeline**: Utilized Debezium and Kafka to achieve a 95% real-time accuracy in capturing and processing transaction status changes.
-- **Streamlined Deployment with Docker Compose**: Reduced setup time from 2 hours to 30 minutes, enhancing operational efficiency.
+- **Streamlined Deployment with Docker Compose**: Reduced setup time by almost 70%, enhancing operational efficiency.
 - **ETL Transformation for Slack Notifications**: Developed a custom Python script to transform JSON change logs into actionable Slack notifications, reducing message lag by 47% and ensuring timely alerts.
 
 ### Conclusion
