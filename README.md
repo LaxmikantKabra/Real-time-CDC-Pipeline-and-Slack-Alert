@@ -40,5 +40,7 @@ The project employs Docker Compose to facilitate the deployment of essential ser
 
 This project showcases proficiency in Docker containerization, CDC methodologies using Debezium and Kafka, and real-time data processing for operational notifications via Slack. By leveraging these technologies, the project demonstrates enhanced data visibility, operational transparency, and timely communication of critical business events.
 
-![Architecture Diagram](images/docker_image.jpg)
-![Architecture Diagram](images/slack.png)
+<p align="center">
+  <img src="images/docker_image.jpg" alt="Docker Image" width="50%">
+  <img src="images/slack.png" alt="Slack Notification" width="50%">
+</p>
