@@ -28,6 +28,8 @@ The project employs Docker Compose to facilitate the deployment of essential ser
 - **Confluent Control Center**: Monitors and manages Kafka clusters, ensuring data integrity and operational efficiency.
 - **PostgreSQL**: Stores synthetic transaction data, integrated with Debezium for change capture.
 
+![Architecture Diagram](images/architecture_diagram.png)
+
 ### Key Features and Achievements
 
 - **Implemented CDC Pipeline**: Utilized Debezium and Kafka to achieve a 95% real-time accuracy in capturing and processing transaction status changes.
