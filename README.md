@@ -42,6 +42,6 @@ This project showcases proficiency in Docker containerization, CDC methodologies
 
 <p align="center">
   <img src="images/docker_image.jpg" alt="Docker Image" width="75%">
-  <br>
+  <br> <br> <br> <br>
   <img src="images/slack.png" alt="Slack Notification" width="75%">
 </p>
