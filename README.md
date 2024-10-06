@@ -1,6 +1,6 @@
 # Real-time Transaction Status Monitoring with CDC Pipeline and Slack Notifications
 
-## Summary
+## Overview
 
 This project focuses on creating a Change Data Capture (CDC) pipeline using Debezium and Kafka to monitor and notify Slack channels of transaction status changes in a PostgreSQL database containing 200,000 synthetic transactions. The pipeline enables real-time updates and notifications, enhancing operational transparency and responsiveness.
 
